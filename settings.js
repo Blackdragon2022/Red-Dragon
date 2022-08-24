@@ -11,15 +11,35 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `📤I am alive now😇🙏🥺මම බ්ලැක් ඩ්‍රැගන් බොට්🙏🥺
+🤷‍♀️How can I help you?👀⃞⃟̶̸̷̿🦅⃝ᴮᴸᴬᶜ⃝ᴷ༗✮⃝🦅❁❂⃝𝑫𝑹𝑨𝑮𝑶𝑵⃝༈🦖⃝⃡𝐁𝐎𝐓⃝ ᵉ̶⃞⃖⃗ 🇱🇰🏷️̶̄ 🚶‍♂️̶̄
+
+ආදරෙන් සාදරෙන් පිලිගන්නවා ඔබව
+
+වට්සැප් පැකේජ් එකෙන්ම සින්දු , 
+
+වීඩියෝ ඩවුන්ලෝඩ් කරමු.
+
+තව ගොඩක් දේවල් තියෙනවා
+
+පහල තියෙන කමාන්ඩ් Use කරන්න
+
+මුලට ඩොට් එක ( . )අනිවාර්ය නෑ
+
+.alive = බොට් වැඩද බැලීමට
+
+.song = සිංදු download කිරීමට
+
+.video = video download කිරීමට
+
+.menu = වෙනත් command` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.available = true //auto available (true to on, false to off)
+global.available = false //auto available (true to on, false to off)
 
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.doc2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
@@ -29,8 +49,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94703186108'] // owner number
+global.ownername = "🥺🦅𝐒𝐅 𝐏𝐑𝐀𝐒𝐀𝐃✭🦅✭(𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡)" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -44,19 +64,51 @@ global.antibad = "false" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
-global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
+global.welcom_msg = "false" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94703186108']
+global.ownertag = '+94703186108' //your tag number
+global.botname = '👀⃞⃟̶̸̷̿🦅⃝ᴮᴸᴬᶜ⃝ᴷ༗✮⃝🦅❁❂⃝𝑫𝑹𝑨𝑮𝑶𝑵⃝༈🦖⃝⃡𝐁𝐎𝐓⃝ ᵉ̶⃞⃖⃗ 🇱🇰🏷️̶̄ 🚶‍♂️̶̄' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "❁͜͡🦅ᴮᴸᴬᶜᴷ༗✮🦅❂⃝𝑫𝑹𝑨𝑮𝑶𝑵⃝༈❥❂" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ මගෙන් දැනගන්න ඔනි මොනවද🥺
+
+🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅
+
+¹° name🦅
+
+²° age🦅
+
+³° from🦅
+
+⁴° termux hacking🦅
+
+⁵° phishing toll🦅
+
+⁶° termux command🦅
+
+⁷° kali command🦅
+
+⁸° account clone🦅
+
+⁹° fakescams🦅
+
+¹⁰° facebook hacking🦅
+
+¹¹° google hacking🦅
+
+¹²° vk hacking🦅
+
+¹³° report problem🦅
+
+¹⁴° disable account help🦅
+
+¹⁵  whatapp account scams🦅]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94703186108'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
