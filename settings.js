@@ -71,7 +71,7 @@ global.botname = '👀⃞⃟𝐁𝐋𝐀𝐂𝐊❁✭🥺༗✮⃝🦅❁❂⃝
 global.packname = "Bot Sticker" // sticker packname
 global.author = "❁𝐁𝐋𝐀𝐂𝐊❁✭🦅༗✮🦅❂⃝𝑫𝑹𝑨𝑮𝑶𝑵⃝༈❥❂" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[😋🙏ඔයාට මගෙන් දැනග්න ඔනි මොනවද හැකින් ඔනි දෙයක්🙏😋😉 name
+global.footer = '[😋🙏ඔයාට මගෙන් දැනග්න ඔනි මොනවද හැකින් ඔනි දෙයක්🙏😋😉
 😉https://github.com/Blackdragon2022/Red-Dragon?organization=Blackdragon2022&organization=Blackdragon2022]' //
 
 //database
