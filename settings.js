@@ -11,7 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇🙏🥺මම බ්ලැක් ඩ්‍රැගන් බොට්🙏🥺
+global.alivemsg = `📤I am alive now😇🙏🥺🦅මම බොට් බ්ලැක් ඩ්‍රැගන් 🦅🙏🥺
 🤷‍♀️How can I help you?👀⃞⃟𝐁𝐋𝐀𝐂𝐊🦅༗✮⃝🦅❁❂⃝𝑫𝑹𝑨𝑮𝑶𝑵⃝༈🦖⃝⃡𝐁𝐎𝐓⃝ 🦅 🇱🇰🏷️🦅🚶‍♂️🦅
 
 🙏😋ආදරයෙන් සාදරයෙන් පිලිගන්නවා ඔබව😋🙏
@@ -48,7 +48,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+94703186108'] // owner number
-global.ownername = "🥺🦅𝐒𝐅 𝐏𝐑𝐀𝐒𝐀𝐃✭🦅✭(𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡)" // owner name
+global.ownername = "🥺🦅𝐒𝐅 𝐏𝐑𝐀𝐒𝐀𝐃✭🦅✭(❤️𝐑𝐈𝐘𝐀𝐋✪𝐋𝐎𝐊𝐔✪𝐊𝐈𝐍𝐆✪𝐀𝐋𝐏𝐇𝐀❤️(𝕄𝔸𝕃𝕀𝕐𝔸))" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -71,8 +71,7 @@ global.botname = '👀⃞⃟𝐁𝐋𝐀𝐂𝐊❁✭🥺༗✮⃝🦅❁❂⃝
 global.packname = "Bot Sticker" // sticker packname
 global.author = "❁𝐁𝐋𝐀𝐂𝐊❁✭🦅༗✮🦅❂⃝𝑫𝑹𝑨𝑮𝑶𝑵⃝༈❥❂" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[😋🙏ඔයාට මගෙන් දැනග්න ඔනි මොනවද හැකින් ඔනි දෙයක්🙏😋😉
-😉https://github.com/Blackdragon2022/Red-Dragon?organization=Blackdragon2022&organization=Blackdragon2022]' //
+global.footer = '[😋🙏ඔයාට මගෙන් දැනග්න ඔනි මොනවද හැකින් ඔනි දෙයක්🙏😋😉]' //
 
 //database
 global.premium = ['+94703186108'] //ur premium numbers
