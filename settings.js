@@ -14,25 +14,25 @@ global.APIKeys = {
 global.alivemsg = `📤I am alive now😇🙏🥺මම බ්ලැක් ඩ්‍රැගන් බොට්🙏🥺
 🤷‍♀️How can I help you?👀⃞⃟𝐁𝐋𝐀𝐂𝐊🦅༗✮⃝🦅❁❂⃝𝑫𝑹𝑨𝑮𝑶𝑵⃝༈🦖⃝⃡𝐁𝐎𝐓⃝ 🦅 🇱🇰🏷️🦅🚶‍♂️🦅
 
-ආදරයෙන් සාදරයෙන් පිලිගන්නවා ඔබව
+🙏😋ආදරයෙන් සාදරයෙන් පිලිගන්නවා ඔබව😋🙏
 
-වට්සැප් පැකේජ් එකෙන්ම සින්දු , 
+❤️වට්සැප් පැකේජ් එකෙන්ම සින්දු , 
 
-වීඩියෝ ඩවුන්ලෝඩ් කරමු.
+❤️වීඩියෝ ඩවුන්ලෝඩ් කරමු.
 
-තව ගොඩක් දේවල් තියෙනවා
+❤️තව ගොඩක් දේවල් තියෙනවා
 
-පහල තියෙන කමාන්ඩ් Use කරන්න
+❤️පහල තියෙන කමාන්ඩ් Use කරන්න
 
-මුලට ඩොට් එක ( . )අනිවාර්ය නෑ
+❤️මුලට ඩොට් එක ( . )අනිවාර්ය නෑ
 
-.alive = බොට් වැඩද බැලීමට
+❤️.alive = බොට් වැඩද බැලීමට
 
-.song = සිංදු download කිරීමට
+❤️.song = සිංදු download කිරීමට
 
-.video = video download කිරීමට
+❤️.video = video download කිරීමට
 
-.menu = වෙනත් command` //Costomize Alive Message (type your message in `` )
+❤️.menu = වෙනත් command` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -64,7 +64,7 @@ global.antibad = "false" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
-global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
+global.welcom_msg = "false" // Welcome / Goodbye   [true/false]
 
 
 global.owner = ['+94703186108']
@@ -73,7 +73,7 @@ global.botname = '👀⃞⃟𝐁𝐋𝐀𝐂𝐊❁✭🥺༗✮⃝🦅❁❂⃝
 global.packname = "Bot Sticker" // sticker packname
 global.author = "❁𝐁𝐋𝐀𝐂𝐊❁✭🦅༗✮🦅❂⃝𝑫𝑹𝑨𝑮𝑶𝑵⃝༈❥❂" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ මගෙන් දැනගන්න ඔනි මොනවද හැකින් ඔනි 😉 name
+global.footer = '[😋🙏ඔයාට මගෙන් දැනග්න ඔනි මොනවද හැකින් ඔනි දෙයක්🙏😋😉 name
 😉 age🦅
 😉 from🦅
 😉termux hacking🦅
