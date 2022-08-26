@@ -11,8 +11,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇🙏🥺🦅මම බොට් බ්ලැක් ඩ්‍රැගන් 🦅🙏🥺
-🤷‍♀️How can I help you?👀⃞⃟𝐁𝐋𝐀𝐂𝐊🦅༗✮⃝🦅❁❂⃝𝑫𝑹𝑨𝑮𝑶𝑵⃝༈🦖⃝⃡𝐁𝐎𝐓⃝ 🦅 🇱🇰🏷️🦅🚶‍♂️🦅
+global.alivemsg = `📤I am alive now😇🙏🥺🦅මම බොට් කින්ග් ඇල්ෆා🦅🙏🥺
+🤷‍♀️How can I help you?👀⃞⃟𝐁𝐋𝐀𝐂𝐊🦅𖡹𖡹🇱🇰👿🌈𝐊𝐈𝐍𝐆 🤗ᴬᴸᴾᴴᴬ𖡹🌈👿🇱🇰𖡹𖡹༗✮⃝🦅❁❂⃝𝑫𝑹𝑨𝑮𝑶𝑵⃝༈🦖⃝⃡𝐁𝐎𝐓⃝ 🦅 🇱🇰🏷️🦅🚶‍♂️🦅
 
 🙏😋ආදරයෙන් සාදරයෙන් පිලිගන්නවා ඔබව😋🙏
 
@@ -47,7 +47,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94703186108'] // owner number
+global.vcardowner = ['+94701655661'] // owner number
 global.ownername = "🥺🦅𝐒𝐅 𝐏𝐑𝐀𝐒𝐀𝐃✭🦅✭(❤️𝐑𝐈𝐘𝐀𝐋✪𝐋𝐎𝐊𝐔✪𝐊𝐈𝐍𝐆✪𝐀𝐋𝐏𝐇𝐀❤️(𝕄𝔸𝕃𝕀𝕐𝔸))" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
@@ -65,16 +65,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "false" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+94703186108']
-global.ownertag = '+94703186108' //your tag number
-global.botname = '👀⃞⃟𝐁𝐋𝐀𝐂𝐊❁✭🥺༗✮⃝🦅❁❂⃝𝑫𝑹𝑨𝑮𝑶𝑵⃝༈🦖⃝⃡𝐁𝐎𝐓⃝ 🦅🇱🇰🏷️🦅❁✭🚶‍♂️🦅❁' //ur bot name
+global.owner = ['+94701655661']
+global.ownertag = '+94701655661' //your tag number
+global.botname = '👀⃞⃟𝐁𝐋𝐀𝐂𝐊❁✭𖡹𖡹🇱🇰👿🌈𝐊𝐈𝐍𝐆 🤗ᴬᴸᴾᴴᴬ𖡹🌈👿🇱🇰𖡹𖡹🥺༗✮⃝🦅❁❂⃝𝑫𝑹𝑨𝑮𝑶𝑵⃝༈🦖⃝⃡𝐁𝐎𝐓⃝ 🦅🇱🇰🏷️🦅❁✭🚶‍♂️🦅❁' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "❁𝐁𝐋𝐀𝐂𝐊❁✭🦅༗✮🦅❂⃝𝑫𝑹𝑨𝑮𝑶𝑵⃝༈❥❂" // sticker author
+global.author = "❁𝐁𝐋𝐀𝐂𝐊❁✭🦅❤️𝐑𝐈𝐘𝐀𝐋✪𝐋𝐎𝐊𝐔✪𝐊𝐈𝐍𝐆✪𝐀𝐋𝐏𝐇𝐀❤️༗✮🦅❂⃝𝑫𝑹𝑨𝑮𝑶𝑵⃝༈❥BOT⚔️⃝❂" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[😋🙏ඔයාට මගෙන් දැනග්න ඔනි මොනවද හැකින් ඔනි දෙයක්🙏😋😉]' //
 
 //database
-global.premium = ['+94703186108'] //ur premium numbers
+global.premium = ['+94701655661'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
